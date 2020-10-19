@@ -6,3 +6,5 @@ Tecnologias utilizadas:
 * CSS3
 * BOOTSTRAP4
 * JAVASCRIPT
+* This project was done by Scrowszinho and BrunoRabbit in college.
+
