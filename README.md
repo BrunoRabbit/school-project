@@ -6,3 +6,4 @@ Tecnologias utilizadas:
 * CSS3
 * BOOTSTRAP4
 * JAVASCRIPT
+* Created by Scrowszinho and BrunoRabbit in the first semester of college
